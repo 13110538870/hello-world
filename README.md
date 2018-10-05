@@ -1,2 +1,2 @@
 # hello-world
-just a start
+I am a new student to learn the Github,and now i an very excited!
